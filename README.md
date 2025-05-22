@@ -9,14 +9,14 @@ OS and Parallel Programming Final Project
 
 <h2> Team Members: </h2>
   
-<h3><a href="https://github.com/carendeperalta"> De Peralta, Caren </a></h3>
-<p> Documentation and Testing </p>
-<h3><a href="https://github.com/Terrrrrrrrrrrrrrrrr"> Russel, Lester </a></h3>
+<h3><a href="https://github.com/carendeperalta"> De Peralta, Caren Elizabeth </a></h3>
+<p> Report writing, theory review </p>
+<h3><a href="https://github.com/Terrrrrrrrrrrrrrrrr"> Russel, Lester Jhon </a></h3>
 <p> Video Editing and Final Polishing </p>
 <h3><a href="https://github.com/vdenilin"> Vidallo, Denilin </a></h3>
-<p> Result </p>
-<h3><a href="https://github.com/francisvillanueva"> Villanueva, Francis </a></h3>
-<p> Code </p>
+<p> Programming & algorithm implementation </p>
+<h3><a href="https://github.com/francisvillanueva"> Villanueva, Francis Niñ </a></h3>
+<p> Documentation and testing support </p>
   
 <h2> Screenshots </h2>
 <img>
