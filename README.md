@@ -13,11 +13,19 @@ OS and Parallel Programming Final Project
 <p> Documentation and Testing </p>
 <h3><a href="https://github.com/Terrrrrrrrrrrrrrrrr"> Russel, Lester </a></h3>
 <p> Video Editing and Final Polishing </p>
-<h3><a href=""> Vidallo, Denilin </a></h3>
+<h3><a href="https://github.com/vdenilin"> Vidallo, Denilin </a></h3>
 <p> Result </p>
 <h3><a href="https://github.com/francisvillanueva"> Villanueva, Francis </a></h3>
 <p> Code </p>
   
 <h2> Screenshots </h2>
 <img>
+<p>  </p>
+
+
+<h2> Code Explaination </h2>
+<code>
+  
+</code>
+
 <p>  </p>
