@@ -15,7 +15,7 @@ OS and Parallel Programming Final Project
 <p> Video Editing and Final Polishing </p>
 <h3><a href="https://github.com/vdenilin"> Vidallo, Denilin </a></h3>
 <p> Documentation and testing support </p>
-<h3><a href="https://github.com/francisvillanueva"> Villanueva, Francis Niñ </a></h3>
+<h3><a href="https://github.com/francisvillanueva"> Villanueva, Francis Niño </a></h3>
 <p> Programming & algorithm implementation </p>
   
 <h2> Screenshots </h2>
