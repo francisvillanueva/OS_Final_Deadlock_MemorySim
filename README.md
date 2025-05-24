@@ -5,7 +5,7 @@ OS and Parallel Programming Final Project
 <p>  </p>
   
 <h2> Description: </h2>
-<p> This project simulates deadlock scenarios and evaluates dynamic memory allocation strategies—First Fit, Best Fit, and Worst Fit—using Java. It analyzes the efficiency and impact of each strategy on memory fragmentation and system safety. The goal is to gain insights into resource management challenges in operating systems and assess how allocation policies influence overall system performance and reliability. </p>
+<p> This project simulates deadlock scenarios and evaluates dynamic memory allocation strategies—First Fit, Best Fit, and Worst Fit—using Python. It analyzes the efficiency and impact of each strategy on memory fragmentation and system safety. The goal is to gain insights into resource management challenges in operating systems and assess how allocation policies influence overall system performance and reliability. </p>
 
 <h2> Team Members: </h2>
   
