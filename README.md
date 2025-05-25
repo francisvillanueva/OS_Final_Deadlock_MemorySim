@@ -4,7 +4,7 @@ OS and Parallel Programming Final Project
 <h1><strong>Title: <ins>Simulating and Analyzing Deadlock and Memory Allocation Strategies in Operating Systems</ins></strong></h1>
 <p>  </p>
 
-##technology used:
+## technology used:
 - Python
 - Matplotlib for visualization
   
