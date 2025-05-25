@@ -131,10 +131,15 @@ processes = insert_toArray([None] * lenProcesses, 'process')
 processes = list(map(int, processes))
 
 print("\nPrcesses: ", processes, "\n")
+while True:
+    lenMemory = validate_input("Enter the number of memory blocks: ")
+    memory_blocks = insert_toArray([None] * lenMemory, "memory block")
+    memory_blocks = list(map(int, memory_blocks))
 
-lenMemory = validate_input("Enter the number of memory blocks: ")
-memory_blocks = insert_toArray([None] * lenMemory, "memory block")
-memory_blocks = list(map(int, memory_blocks))
+    if lenMemory >= lenProcesses and sum(memory_blocks) >= lenProcesses:
+        break
+    else:
+        print("\nPlease enter a number of memory blocks and values that sum up to at least the number of processes.\n")
 
 print("\nMemory Blocks: ", memory_blocks, "\n")
 
