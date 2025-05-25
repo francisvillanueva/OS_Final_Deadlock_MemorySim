@@ -43,7 +43,7 @@ def first_fit(memory_blocks, processes):
 ```
 
 <p> First fit searches through memory blocks from the beginning, looking for the first block that can fit the process. </p>
-<p> &nbsp;&nbsp;&nbsp;&nbsp; This function <code>first_fit</code> accepts the <code>memory_blocks</code> and <code>processes</code> variable and makes an array <code>allocation</code> that has the size length of the array <code>processes</code> and loops through <code>memory_block</code> looking for the <strong>first</strong> <code>block</code> that can accommodate the <code>process</code> that is the first available <code>block</code> large enough to fit the <code>process</code>. </p>
+<p> &nbsp;&nbsp;&nbsp;&nbsp; This function <code>first_fit</code> accepts the <code>memory_blocks</code> and <code>processes</code> variable and makes an array <code>allocation</code> that has the size length of the array <code>processes</code> and loops through <code>memory_block</code> looking for the <strong>first available <code>block</code>large enough</strong> to accommodate the <code>process</code>. </p>
 
 
 <h3> Best Fit </h3>
