@@ -100,20 +100,20 @@ def worst_fit(memory_blocks, processes):
 
 #Banker's Algorithm
 def bankers_algorithm(available, max_demand, allocation):
-    n_processes = len(allocation)
-    n_resources = len(available)
+    processes = len(allocation)
+    resources = len(available)
 
-    need = [[max_demand[i][j] - allocation[i][j] for j in range(n_resources)] for i in range(n_processes)]
-    finish = [False] * n_processes
+    need = [[max_demand[i][j] - allocation[i][j] for j in range(resources)] for i in range(processes)]
+    finish = [False] * processes
     safe_sequence = []
 
     work = available[:]
 
-    while len(safe_sequence) < n_processes:
+    while len(safe_sequence) < processes:
         found = False
-        for i in range(n_processes):
-            if not finish[i] and all(need[i][j] <= work[j] for j in range(n_resources)):
-                for j in range(n_resources):
+        for i in range(processes):
+            if not finish[i] and all(need[i][j] <= work[j] for j in range(resources)):
+                for j in range(resources):
                     work[j] += allocation[i][j]
                 finish[i] = True
                 safe_sequence.append(i)
